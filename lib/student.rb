@@ -1,3 +1,3 @@
 class Student < User
-  attr_accessor :ancestors
+  attr_accessor 
 end
